@@ -1,0 +1,2 @@
+# stanly
+Büyük bir sirket
